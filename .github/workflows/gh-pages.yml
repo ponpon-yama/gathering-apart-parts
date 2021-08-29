@@ -9,7 +9,7 @@ on:
     branches:
       - main
   pull_request:
-    branches: [ master ]
+#    branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -40,7 +40,7 @@ jobs:
           # Download (if necessary) and use Hugo extended version. Example: true
           #extended: true # optional, default is false
       - name: Run a one-line script
-        run: hugo --minify
+        run: hugo -v
       # Runs a set of commands using the runners shell
       - name: GitHub Pages v3
         # You may pin to the exact commit or the version.
