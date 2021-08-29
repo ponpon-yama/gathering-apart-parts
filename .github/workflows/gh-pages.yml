@@ -50,7 +50,7 @@ jobs:
           # 
           #personal_token: # optional
           # 
-          publish_branch: main # optional, default is gh-pages
+          #publish_branch: # optional, default is gh-pages
           # 
           publish_dir: public # optional, default is public
           # 
