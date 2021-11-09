@@ -2,19 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/about/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/illustrations/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/p/image/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/illustrations/nenga-card/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/p/landscapes/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/paintings/landscape/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/page/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/paintings/</loc>
-    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/post/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/</loc>
+    <lastmod>2021-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/p/illustrations-for-nenga-card/</loc>
+    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/p/retouch/</loc>
+    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/categories/</loc>
+  </url><url>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/search/</loc>
+  </url><url>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/tags/</loc>
+  </url><url>
+    <loc>https://ponpon-yama.github.io/gathering-apart-part/categories/test/</loc>
   </url>
 </urlset>

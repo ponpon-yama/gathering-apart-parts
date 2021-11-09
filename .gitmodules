@@ -1,3 +1,12 @@
 [submodule "themes/showcase"]
 	path = themes/showcase
 	url = https://github.com/apvarun/showcase-hugo-theme.git
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/sourcethemes/academic-kickstart.git
+[submodule "themes/sam"]
+	path = themes/sam
+	url = https://github.com/victoriadrake/hugo-theme-sam.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
