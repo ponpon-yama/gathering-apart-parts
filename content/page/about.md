@@ -16,7 +16,7 @@ menu:
 
 I am a digital painter. For my works I used mainly Gimp.
 
-I put the subtitle "Gathering Apart Parts" on my page, because I felt that I have sought the images like each part of the painting is gathering apart to represent something as it happens.
+I put the subtitle "Gathering Apart Parts" on my page, because I felt that I seek the images like each part of the painting happens to gather apart with representing something.
 
 E-mail me if you interest in my works; e-mail: mnaka.portable@gmail.com
  
