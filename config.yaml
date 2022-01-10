@@ -5,6 +5,8 @@ languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
 title: Gathering Apart Parts
+#add publishDir definition
+publishDir: docs
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
