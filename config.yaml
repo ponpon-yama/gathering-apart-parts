@@ -4,7 +4,7 @@ baseurl: https://ponpon-yama.github.io/gathering-apart-parts/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: 中島 眞 (NAKAJIMA Makoto)
+title: Gathering Apart Parts
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -41,7 +41,7 @@ params:
 
     sidebar:
         emoji:
-        subtitle: Gathering Apart Parts
+        subtitle: 中島 眞 (NAKAJIMA Makoto)
         avatar:
             enabled: true
             local: true

@@ -1,14 +1,16 @@
 ---
 title: Illustrations for Nenga card
 description:
-date: 2021-11-06
+date: 2022-01-10
 slug: 
-image: cow8.png
+image: tiger14_no-year.png
 categories:
 ---
 
 These are the illustrations I had painted for Nenga card.
 
+## 2022
+![Tiger](tiger14_no-year.png)  
 ## 2021
 ![Cow](cow8.png)  
 ## 2020
