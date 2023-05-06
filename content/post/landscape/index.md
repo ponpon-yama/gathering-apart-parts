@@ -1,11 +1,14 @@
 ---
 title: Landscapes
 description: 
-date: 2021-11-07
+date: 2023-05-06
 slug: 
-image: hw-hides-beyond-mnt_neutral.jpg
+image: gate4some_162.jpg
 categories:
 ---
+
+## The little gate for something
+![Latest work (2023.may)](gate4some_162.jpg)  
 
 ## Highway running out beyond the mountains
 ![First work (2019.aug)](hw-hides-beyond-mnt_neutral.jpg)  
