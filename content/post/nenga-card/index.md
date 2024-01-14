@@ -1,14 +1,16 @@
 ---
 title: Illustrations for Nenga card
 description:
-date: 2023-01-06
+date: 2024-01-14
 slug: 
-image: rabbit15.png
+image: dragon14.png
 categories:
 ---
 
 These are the illustrations I had painted for Nenga card.
 
+## 2024
+![Dragon](dragon14.png)  
 ## 2023
 ![Rabbit](rabbit15.png)  
 ## 2022
