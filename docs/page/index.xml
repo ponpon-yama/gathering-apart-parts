@@ -6,35 +6,28 @@
     <description>Recent content in Pages on Gathering Apart Parts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ponpon-yama.github.io/gathering-apart-parts/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ponpon-yama.github.io/gathering-apart-parts/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://ponpon-yama.github.io/gathering-apart-parts/about/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://ponpon-yama.github.io/gathering-apart-parts/about/</guid>
-      <description>I am a digital painter. For my works I used mainly Gimp.
-I put the title &amp;ldquo;Gathering Apart Parts&amp;rdquo; on my page, because I felt that I seek the images like each part of the painting happens to gather apart with representing something.
-E-mail me if you interest in my works; e-mail: mnaka.portable@gmail.com</description>
+      <description>I am a digital painter. For my works I used mainly Gimp.&#xA;I put the title &amp;ldquo;Gathering Apart Parts&amp;rdquo; on my page, because I felt that I seek the images like each part of the painting happens to gather apart with representing something.&#xA;E-mail me if you interest in my works; e-mail: mnaka.portable@gmail.com</description>
     </item>
-    
     <item>
       <title>Archives</title>
       <link>https://ponpon-yama.github.io/gathering-apart-parts/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://ponpon-yama.github.io/gathering-apart-parts/archives/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Search</title>
       <link>https://ponpon-yama.github.io/gathering-apart-parts/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ponpon-yama.github.io/gathering-apart-parts/search/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
