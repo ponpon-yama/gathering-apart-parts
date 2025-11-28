@@ -11,7 +11,6 @@ categories:
 ![First work (2023.may)](gate4some_162.jpg)  
 ![Color variation of the previous with a little correction (2023.jun)](gate4some_163_powder.jpg)  
 ![Funky color variation (2023.sep)](gate4some_163_funk.jpg)  
-
 ## Highway running out beyond the mountains
 ![First work (2019.aug)](hw-hides-beyond-mnt_neutral.jpg)  
 ![Color variation of the previous (2019.aug)](hw-hides-beyond-mnt_odds.jpg)  
