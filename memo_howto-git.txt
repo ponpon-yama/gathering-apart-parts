@@ -1,7 +1,7 @@
 content以下の内容に追加や修正を反映する。
 
 ローカルで追加／修正内容を確認する場合は、以下を実行し
-hugo server -D # -D include content marked as draft
+mako@yourpc:~/gathering-apart-parts$ hugo server -D # -D include content marked as draft
 「localhost:1313」をブラウザで見る。
 
 そして、以下を実行

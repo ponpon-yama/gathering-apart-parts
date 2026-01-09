@@ -1,5 +1,5 @@
 ---
-title: Imaginary Scenes
+title: Imagery
 description: 
 date: 2025-11-28
 slug: 

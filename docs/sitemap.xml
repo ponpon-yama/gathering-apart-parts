@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/p/imaginary-scenes/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/p/imagery/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/post/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/post/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/p/illustrations-for-nenga-card/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/p/illustrations-for-nenga-card/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/p/landscapes/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/p/landscapes/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/about/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/about/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/page/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/page/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/p/retouch/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/p/retouch/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/archives/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/categories/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/categories/</loc>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/search/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/search/</loc>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/tags/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/tags/</loc>
   </url><url>
-    <loc>https://ponpon-yama.github.io/gathering-apart-parts/categories/test/</loc>
+    <loc>http://localhost:1313/gathering-apart-parts/categories/test/</loc>
   </url>
 </urlset>
